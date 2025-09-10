@@ -1,7 +1,7 @@
 package BaiTapVeNha.LamQuenVoiJava.Bai2;
 
-import java.util.ArrayList;
-import java.util.Collections;
+
+import java.util.*;
 
 class TaiKhoan { 
     private String soTaiKhoan, chuTaiKhoan; 
