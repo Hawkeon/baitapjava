@@ -78,12 +78,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // Block for Books
+        
         Block<Book> bookBlock = new Block<>();
         bookBlock.add(new Book("Clean Code", "Robert C. Martin", 2008));
         bookBlock.add(new Book("Effective Java", "Joshua Bloch", 2018));
 
-        // Block for Phones
+        
         Block<Phone> phoneBlock = new Block<>();
         phoneBlock.add(new Phone("Apple", "iPhone 15", 25000000));
         phoneBlock.add(new Phone("Samsung", "Galaxy S24", 22000000));
